@@ -1,0 +1,2225 @@
+{
+  "collectedOn": "2026-11-23",
+  "collector": {
+    "configSha256": "c99c85adc906a13c77aeb4292ced3964dcfa0c1c7ed7ea99b81fa70cb849899d",
+    "ref": "5729134b38c7c84a8dfc1c4cc14cd049349e1614"
+  },
+  "coverage": {
+    "Azure/azure-iot-sdk-python": {
+      "complete": 87,
+      "days": 87
+    },
+    "NatLabRockies/buildstockbatch": {
+      "complete": 87,
+      "days": 87
+    },
+    "Significant-Gravitas/AutoGPT": {
+      "complete": 87,
+      "days": 87
+    },
+    "TanStack/query": {
+      "complete": 87,
+      "days": 87
+    },
+    "babel/babel": {
+      "complete": 87,
+      "days": 87
+    },
+    "baserow/baserow": {
+      "complete": 87,
+      "days": 87
+    },
+    "colinhacks/zod": {
+      "complete": 87,
+      "days": 87
+    },
+    "electron/forge": {
+      "complete": 87,
+      "days": 87
+    },
+    "excalidraw/excalidraw": {
+      "complete": 87,
+      "days": 87
+    },
+    "facebook/lexical": {
+      "complete": 87,
+      "days": 87
+    },
+    "honojs/hono": {
+      "complete": 87,
+      "days": 87
+    },
+    "jborean93/ansibug": {
+      "complete": 87,
+      "days": 87
+    },
+    "mariadb-corporation/mariadb-connector-nodejs": {
+      "complete": 87,
+      "days": 87
+    },
+    "meshery/meshery": {
+      "complete": 87,
+      "days": 87
+    },
+    "mozilla-conduit/review": {
+      "complete": 87,
+      "days": 87
+    },
+    "prettier/prettier": {
+      "complete": 87,
+      "days": 87
+    },
+    "sveltejs/svelte": {
+      "complete": 87,
+      "days": 87
+    },
+    "toss/es-toolkit": {
+      "complete": 87,
+      "days": 87
+    },
+    "trpc/trpc": {
+      "complete": 87,
+      "days": 87
+    },
+    "typescript-eslint/typescript-eslint": {
+      "complete": 87,
+      "days": 87
+    },
+    "unjs/h3": {
+      "complete": 87,
+      "days": 87
+    },
+    "visgl/luma.gl": {
+      "complete": 87,
+      "days": 87
+    },
+    "vitejs/vite": {
+      "complete": 87,
+      "days": 87
+    },
+    "vuejs/core": {
+      "complete": 87,
+      "days": 87
+    },
+    "vueuse/vueuse": {
+      "complete": 87,
+      "days": 87
+    }
+  },
+  "files": [
+    {
+      "bytes": 1057841,
+      "path": "artifacts/facebook__lexical/14777286659.zip",
+      "sha256": "d6a23cb85a11a94a0d86b0b1474c213a9d6606448e6c506d6056be3e32c61696"
+    },
+    {
+      "bytes": 2840,
+      "path": "artifacts/meshery__meshery/14731703496.zip",
+      "sha256": "0c72cb29f7a93c04e919245959b1448d5c2d38b63b61c53ffd3f2d21669982f1"
+    },
+    {
+      "bytes": 2837,
+      "path": "artifacts/meshery__meshery/14731994561.zip",
+      "sha256": "9df0990494938fe380d424083a4fe44e19d4eabe6faf983d2b9d74a49d98e2a7"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14732054146.zip",
+      "sha256": "1d2aa77c8db135d97b3f3fb67bf14ff776a9bc1af24dfda8a13e4fe8a9e3260c"
+    },
+    {
+      "bytes": 2841,
+      "path": "artifacts/meshery__meshery/14733102620.zip",
+      "sha256": "a058815378cfc8c8daf5f7041aa52b424e4191551881eabe733e1a9038e759ac"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14733963420.zip",
+      "sha256": "087effeb31f71aa17d641fd82afaaf5a34b44fd8c8c6fcec37f1d450009d60fd"
+    },
+    {
+      "bytes": 3319,
+      "path": "artifacts/meshery__meshery/14736757048.zip",
+      "sha256": "1ec159547e4bfff689fb19c002c8d45064476836ff0371c0a1def89f33857e66"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14738502066.zip",
+      "sha256": "a93afa94d48611dfa370b105bf4acee06e424fbf90f0e02822e8e113b081f09a"
+    },
+    {
+      "bytes": 2837,
+      "path": "artifacts/meshery__meshery/14741259843.zip",
+      "sha256": "0ab94262d9c4fcc46a53327415f3d38df0755d180b44c08a7fabb912ff4eb697"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14742493576.zip",
+      "sha256": "4cfe59bbf81c8dbed32eb7a62e19dcc0793a8f4d7da291720350e22a747ed22a"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14744955769.zip",
+      "sha256": "4a5c6ab96bfe4cd4ee04b233e24323d2eed21364d6fbeb889235d9a77cbeeded"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14745245281.zip",
+      "sha256": "1293b4a5c29cf5b8c700aba8400eb4ff193e11a1e3483730cfc8179609d024e4"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14745354311.zip",
+      "sha256": "c3d9b24fed144ed9b40503f44c34fb4d9ca04bd4b997ffc4b0d260d628e9dae6"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14747032313.zip",
+      "sha256": "3cda237a61202a7ad6475d44aa889a60521ca5f6cd4359a45bd0439d61731a99"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14747078263.zip",
+      "sha256": "176870b4b51c59594e41ba9cef1e88febb8c71f6afbcb22bb4cfdcee1361336e"
+    },
+    {
+      "bytes": 2837,
+      "path": "artifacts/meshery__meshery/14751133530.zip",
+      "sha256": "1d3d63c2ebbe4dee64fd46006e942571f81699c7f5ca2e08058b85ff26a0caec"
+    },
+    {
+      "bytes": 2840,
+      "path": "artifacts/meshery__meshery/14751579549.zip",
+      "sha256": "99310487079c9d622dd2eff9806ce35fdae19724be0a3ea3045b7e3bdb97c03a"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14751763076.zip",
+      "sha256": "e886154561094a99d3c3d19b942de30877955594b757d3596b6669e09fb59a88"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14751928462.zip",
+      "sha256": "481768d3dcca626b2d0ec0b1ddf302c279bdfcaed3ecdda210ef7ae03a258eab"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14752118054.zip",
+      "sha256": "f9ef103d5f7e1733c66a1d0b050da0cce97622edae568a907f38ca4a7d40cad0"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14752591077.zip",
+      "sha256": "83ca2e956f83912d442beaebe9ba9dad8a1f4fe4f36ca90597b7717548549ab5"
+    },
+    {
+      "bytes": 2838,
+      "path": "artifacts/meshery__meshery/14752774560.zip",
+      "sha256": "4de34d18c6b90ff7637561af994e946db32696311b55bc452356455ad4537523"
+    },
+    {
+      "bytes": 2839,
+      "path": "artifacts/meshery__meshery/14753949226.zip",
+      "sha256": "fa15c4b8be6f810255579639bf28215c18743ed7ef1f1294c2de7a97667950f8"
+    },
+    {
+      "bytes": 2840,
+      "path": "artifacts/meshery__meshery/14753979881.zip",
+      "sha256": "3230d34f6350a069f117c2322763f168abf5369f179f6ba66f24defd716dd588"
+    },
+    {
+      "bytes": 2840,
+      "path": "artifacts/meshery__meshery/14754445194.zip",
+      "sha256": "01087cdd008b14e77763b207236069ccf2f71e3ca82184f1e2cda08395310ebf"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14754867693.zip",
+      "sha256": "c8d83e5d7d1d83f4b81d9a33306f4cb44356049166ea46a50f9da03e21188f8f"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14755044924.zip",
+      "sha256": "ee06bb5fe5f976832e2cbd2932497d3fcc290f2302e6ff8b1696835f346e229a"
+    },
+    {
+      "bytes": 3366,
+      "path": "artifacts/meshery__meshery/14755317214.zip",
+      "sha256": "d102540382cdfbe9c569ddbf37dac32c4e443b65466ecd0ac6a01a9bfc529366"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14755336605.zip",
+      "sha256": "3ab25651410c2ceefae2e275a50df86aada7009f6bd21814b4e8ecf0be7d287f"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14755526606.zip",
+      "sha256": "8e4543c11a04373f9956134a056698c8a41ee49cb554b7c6d6f1ee3dd48a5579"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14755604252.zip",
+      "sha256": "1bee526987747ddc1ae0a925dceff2f164845170d8d8ae63de72f014eb16ea9b"
+    },
+    {
+      "bytes": 2876,
+      "path": "artifacts/meshery__meshery/14755957018.zip",
+      "sha256": "9b2cdf352445a5c54831fa76c0a57248d59693d66aa98dcc85aea6b110c423ea"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14755978369.zip",
+      "sha256": "d37a574173a87ed8a60980e735c552edcb1a4c9951041c965f42b5378d954d39"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14757996480.zip",
+      "sha256": "55e9b4546dfc36537405ec2d2a8718b4d87eeaf0aa8c01c7815c0e3623886f68"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14758664083.zip",
+      "sha256": "05c728612703acb0a4676d3d9fd15491662e83ccdf34a06f57985975641435f1"
+    },
+    {
+      "bytes": 2876,
+      "path": "artifacts/meshery__meshery/14758959491.zip",
+      "sha256": "916f5ba5d756b09f462701a561f66750b34c699c35a04731b67663ce93f43881"
+    },
+    {
+      "bytes": 2876,
+      "path": "artifacts/meshery__meshery/14761561515.zip",
+      "sha256": "62d5c9865b21f112d5daea9d2ea2db655def50250b142e109c46cddfcbc0683e"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14761594215.zip",
+      "sha256": "674da7f240b608561e9729667e96ffd0dc68ec4e68b07851f81209d34d2b8395"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14762406163.zip",
+      "sha256": "dd99c1c7d0ad9f7e4427daed0b208c342c908c0d4b376e1fd6053e0cd2f24b79"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14762548574.zip",
+      "sha256": "403fecd13ec305dac2743bd82840b8e3b920ed1d7658ed886ee120b6704d0541"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14763830799.zip",
+      "sha256": "83485317a2e1246f562062d20f30a4f8c33fbcd4ea15dd95195c96d05f11b145"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14763892049.zip",
+      "sha256": "72dc99a41628aa4858a5b1fefc5087b97fddae20db155f7333620c6c37ecd9e8"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14764076471.zip",
+      "sha256": "491ecdbc62f3611e6e4d29346acf74a9a9211a44a45f933009f8e5de4c6cdfee"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14764105074.zip",
+      "sha256": "dc35e5d30186b792b885ee7c8b4fb5f15bf7e69ae3617f425254b29ae08480fd"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14764358045.zip",
+      "sha256": "e8f44043ee240cfa79e9b04008c97694bd0e968002587b16cd055cf71d670285"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14764580319.zip",
+      "sha256": "97e4203fe9b88dc4f8ef7c999553cab9d893b0588824a576fda3a7190510be0d"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14764836638.zip",
+      "sha256": "de9e681d13d752c36272cf2c3e7786cbacc217c9ee1c4a033afac9a40e9d32e1"
+    },
+    {
+      "bytes": 3368,
+      "path": "artifacts/meshery__meshery/14764896395.zip",
+      "sha256": "c10a82a9992fdff64982539a6c35350dff47604c178ec80771f718abc968385e"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14765209286.zip",
+      "sha256": "9221f3499d8b374f89f451e3f98b230c5a886d2dfce52a5ce3721dd2bc406fa8"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14765212866.zip",
+      "sha256": "bda56a94397a99d65eb4d4eb902054bc0203c8aee31b7e6a2fbb217f1bb2a22b"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14765378155.zip",
+      "sha256": "27572e59a60a9bc2cb5ce5e9e7ff692e8f1211fa91495c0ef290daff794bbdc4"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14765413765.zip",
+      "sha256": "d435cf2458b5593590e3bb7faba5706f68a6795e5501dadb1cbbff7592b9133a"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14765502033.zip",
+      "sha256": "bad2baa33b3bb7bf6e08730536f68e48487fa53c9155c1c2e01bc59c5a10846e"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14765519860.zip",
+      "sha256": "6116ff659b637c06eeda02a6772852002ac1dcedcac1102e100c21696964c693"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14765731945.zip",
+      "sha256": "501c27ac50c7296cc517edbc4c53879b6947837795422cea585a1cbcb27ea517"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14765737049.zip",
+      "sha256": "1b46da8c26181dafb5baf9eed50a1c091866781637a2e544a6ddaf044cc17779"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14765776773.zip",
+      "sha256": "70754a888fe39fede5aea6e0e19006065674cba627a23034baf400ff0b0dfd6e"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14765984397.zip",
+      "sha256": "a58eadc303512004370bd3ba1ed59a66220086d19b1a4feb7a937c6b32caf342"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14766107222.zip",
+      "sha256": "bd07e9eb2c981c398e8b15acc5015c74c9a65d17b1dedb5576d1c2c66781dced"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14766399719.zip",
+      "sha256": "e6075666d1430a3e5fecd9c8974b4ae6c05bb1e32d923ba9c6326f4ad553b70c"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14767338854.zip",
+      "sha256": "411840e41ffad6d22d1cc7e1dad423a9849eed155f41834faf9841381dd46d35"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14767653092.zip",
+      "sha256": "5aa81a815f99f9e646e3c6ae417ef84493c774b227b24bec2daa4f40bfd3c8e8"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14767772389.zip",
+      "sha256": "40f1f5995772826f4f18cf5ddd54e134100f1435c1f322e50ce8f0227f4ed509"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14768090814.zip",
+      "sha256": "328f34158365af093425fe3f39f4a3111eb2bc50ec24195846d6b41d5eda9f19"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14768218701.zip",
+      "sha256": "7c2d43d33fa032b7ccca85cf330974b50b6b5cc0a16a3bd98dc5f938ea60ee06"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14768351684.zip",
+      "sha256": "5dba2ac19e29590ff5fe9f4b8820c9c57156610f73d7367a0fe0c945e4040ff2"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14770892028.zip",
+      "sha256": "0a0ddb512ab9ef078cc938d73432a947d00a2a242da240e2a7f6422792e7a2fb"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14771903373.zip",
+      "sha256": "8e7eeeed7d6503c4a5ac1e0c7d20956e4ae1dacfae7a3a9285ec6f8b5f5eeceb"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14773220042.zip",
+      "sha256": "3c56f5d348bab457634df16826c7177c08cc7b03bfa6a40c32c8511185eb5199"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14773985607.zip",
+      "sha256": "70adab06b6979b1d724525d6c84a3ec7b4f858b1e2953a8987eb174e66609227"
+    },
+    {
+      "bytes": 2876,
+      "path": "artifacts/meshery__meshery/14774224444.zip",
+      "sha256": "5c452eca5004e0a5f42ab7f482aff6a703dcc3d05b166f42f56c6fc975fe44a2"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14775212118.zip",
+      "sha256": "9a3c4fcf02ac905f25b8f090112071ca913c441672f7ee3029a0bdc3c7a1b047"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14776329127.zip",
+      "sha256": "1c354b1a1b0e8cb9219e9475ab553f28ec044701795da77c6b1c2bb4edbefa10"
+    },
+    {
+      "bytes": 2878,
+      "path": "artifacts/meshery__meshery/14776937076.zip",
+      "sha256": "da16401886cf1b105139251d963e44c2b0b5e4d69d02c99e976c1466a96cee9c"
+    },
+    {
+      "bytes": 2880,
+      "path": "artifacts/meshery__meshery/14777923049.zip",
+      "sha256": "9256fd53a215ebee3bd0c2eca4220ae03223f0b029795445e3663885b3bd5920"
+    },
+    {
+      "bytes": 2881,
+      "path": "artifacts/meshery__meshery/14777949673.zip",
+      "sha256": "1aac775fcdcff3101383c4dcd11be258c640bf78de14a5dba2ee9975e0966324"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14778696064.zip",
+      "sha256": "35ef88c2d2da0708947c3ffb024d863069336f6e6cf9b5239dfa8ed564319f3c"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14778747799.zip",
+      "sha256": "2adbd164cf49b50f2ea3797c856631431016cfeb67acd68f66679303b09af6f8"
+    },
+    {
+      "bytes": 3373,
+      "path": "artifacts/meshery__meshery/14778791751.zip",
+      "sha256": "49f074c01b8675b541f36ca03ae34830f85718f70813b03919c5ce1cc2e9fb39"
+    },
+    {
+      "bytes": 2877,
+      "path": "artifacts/meshery__meshery/14778862833.zip",
+      "sha256": "12c424499974eceb5b5c1039c1495c93cd74bab1c379c58b51c6ac5898c94682"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14778964734.zip",
+      "sha256": "6baf87c514ad66c50416ffa2827274cd021c4cba7b38ec1d570448300a7e0bc2"
+    },
+    {
+      "bytes": 2879,
+      "path": "artifacts/meshery__meshery/14779688575.zip",
+      "sha256": "93f370f86f9c8e09e570c5ae4e058946d3439ef1a025c614d34d1b052e2f8037"
+    },
+    {
+      "bytes": 10332,
+      "path": "raw/NatLabRockies__buildstockbatch/check-runs.ndjson",
+      "sha256": "43538c8ad28b26177523818d2b4292c85fe82f979d6d5671533240281333a2e9"
+    },
+    {
+      "bytes": 7937,
+      "path": "raw/NatLabRockies__buildstockbatch/jobs.ndjson",
+      "sha256": "a9f46d6c38989658281bbc60760b8cd8ffd374e864c5dd65e4ffaf3bfb9d4765"
+    },
+    {
+      "bytes": 27129,
+      "path": "raw/NatLabRockies__buildstockbatch/runs.ndjson",
+      "sha256": "aa44d4abd4fdc54082b4fd952db6a3c5518e0c4c85bd65eb1dad251babb88f70"
+    },
+    {
+      "bytes": 617246,
+      "path": "raw/Significant-Gravitas__AutoGPT/artifacts.ndjson",
+      "sha256": "6ec3b344e41c94797d1dacb8d1a310de13b60a9135fd3d286c067e275c42450e"
+    },
+    {
+      "bytes": 4185345,
+      "path": "raw/Significant-Gravitas__AutoGPT/check-runs.ndjson",
+      "sha256": "bf04327646cbfa562df88ac6fb50a2e60847dbbbdfbc0982bf9b84dbaf8ed616"
+    },
+    {
+      "bytes": 3851638,
+      "path": "raw/Significant-Gravitas__AutoGPT/jobs.ndjson",
+      "sha256": "28ff62e412c31dd8ec9cc04a3f033336365186aa4b5a909675304a7f2fd8cd4a"
+    },
+    {
+      "bytes": 2812556,
+      "path": "raw/Significant-Gravitas__AutoGPT/runs.ndjson",
+      "sha256": "7c14dd8f711c66217d7fe1baf0ebb355d99c13d9fb72b03fbb6b61b763b1deec"
+    },
+    {
+      "bytes": 338352,
+      "path": "raw/TanStack__query/check-runs.ndjson",
+      "sha256": "6bed835ac367a7db926950c4d675b011cf3fbbf5f0f9add3c7693b13d200df54"
+    },
+    {
+      "bytes": 255321,
+      "path": "raw/TanStack__query/jobs.ndjson",
+      "sha256": "748ade28302362fc78f9934f79bd849043e9ca137d29058a4691b9371732a360"
+    },
+    {
+      "bytes": 628063,
+      "path": "raw/TanStack__query/runs.ndjson",
+      "sha256": "26bd0675cb6906479fee68a9b75aac88b1f4fb78976cf5130360b86e9cbb65a4"
+    },
+    {
+      "bytes": 84390,
+      "path": "raw/babel__babel/artifacts.ndjson",
+      "sha256": "a0c769bf1fbf55b8b0d63ee83a7a637efadcd3180bbbe964be54966d0a46b6d7"
+    },
+    {
+      "bytes": 2132733,
+      "path": "raw/babel__babel/check-runs.ndjson",
+      "sha256": "b272d6aad1ede574a2e583dd2854e93ff82365649839a03cb1f460316b3f1a44"
+    },
+    {
+      "bytes": 1564738,
+      "path": "raw/babel__babel/jobs.ndjson",
+      "sha256": "caa11f2cf5d3d791b4b488b63f9e187c4badbf1bad69c3c0467cf86343abd985"
+    },
+    {
+      "bytes": 259085,
+      "path": "raw/babel__babel/runs.ndjson",
+      "sha256": "a13145c0e4b7956c6a7b1603a802882c96d8f0af4d2690b50a1acd07ff8798cb"
+    },
+    {
+      "bytes": 13970,
+      "path": "raw/baserow__baserow/artifacts.ndjson",
+      "sha256": "20cf9cbfd4038b46e069cf62516c6b128be366cee69afae00903bba46f811eaa"
+    },
+    {
+      "bytes": 125462,
+      "path": "raw/baserow__baserow/check-runs.ndjson",
+      "sha256": "f21a45b0f87740a7143f912fe61f5bd56e3ce2a16848103900abc65532598c3f"
+    },
+    {
+      "bytes": 96079,
+      "path": "raw/baserow__baserow/jobs.ndjson",
+      "sha256": "f2c506d9d88a160f69697f834eb9f20234d2eac1c14342d61314906717909b6a"
+    },
+    {
+      "bytes": 12415,
+      "path": "raw/baserow__baserow/runs.ndjson",
+      "sha256": "8851d3bf9d4e2bdff88e49027f597b8038bbdc09263f72e668f98749366f0b46"
+    },
+    {
+      "bytes": 76665,
+      "path": "raw/colinhacks__zod/check-runs.ndjson",
+      "sha256": "4117ef3609183b27c308c7ca8224721c4c99cd3daa85e5f9a0251bd24f149f8b"
+    },
+    {
+      "bytes": 71780,
+      "path": "raw/colinhacks__zod/jobs.ndjson",
+      "sha256": "f8a97dc6f148c42a0f9f9479980ba5fc5e5e55a44b08b6807cbf06fa0a3f4fbf"
+    },
+    {
+      "bytes": 60229,
+      "path": "raw/colinhacks__zod/runs.ndjson",
+      "sha256": "751dbce16833600c5544d0b68bbc946a6b697e1acfc28d38b6c117cc8d3964ac"
+    },
+    {
+      "bytes": 799,
+      "path": "raw/facebook__lexical/artifacts.ndjson",
+      "sha256": "6814c855b7966064a944bdb2c258062ce2a0cfdff5a69912586ed5db3e64f43d"
+    },
+    {
+      "bytes": 591461,
+      "path": "raw/facebook__lexical/check-runs.ndjson",
+      "sha256": "4070c533cff7fd858c0a851e4a70d914d743f2f12010b6916f1b2ba3b213aa99"
+    },
+    {
+      "bytes": 461568,
+      "path": "raw/facebook__lexical/jobs.ndjson",
+      "sha256": "06ed3622252c1101330da4cda8fa1113a80acc879156e40bf9259120da93eceb"
+    },
+    {
+      "bytes": 735365,
+      "path": "raw/facebook__lexical/runs.ndjson",
+      "sha256": "4b127ce82edfb9d402682d2b19a523f5d1123f244619eeb9542b6d0635879fc8"
+    },
+    {
+      "bytes": 20268,
+      "path": "raw/honojs__hono/artifacts.ndjson",
+      "sha256": "17cb5a86cc2ad00f42c4d1abcdd785421bce6026c87845e9255b3e1b73212ca3"
+    },
+    {
+      "bytes": 327222,
+      "path": "raw/honojs__hono/check-runs.ndjson",
+      "sha256": "4e13b55cafc6c60c42f2aaccd30fba2da0b832281d5637f0071c5ad1bb90d4e8"
+    },
+    {
+      "bytes": 323342,
+      "path": "raw/honojs__hono/jobs.ndjson",
+      "sha256": "9a848d78c6eb89abd60d34d64dd31580ea766d4fa884cb1dab275570c1dda9d9"
+    },
+    {
+      "bytes": 94217,
+      "path": "raw/honojs__hono/runs.ndjson",
+      "sha256": "8b7eda209700a42aa1b56ff29ea8bffd2bf0212a4a03c3d6081bae23cb8e2464"
+    },
+    {
+      "bytes": 717,
+      "path": "raw/mariadb-corporation__mariadb-connector-nodejs/artifacts.ndjson",
+      "sha256": "3bea338499e7847f141639333864388863946b671f16d09592cf37d7164e5507"
+    },
+    {
+      "bytes": 72859,
+      "path": "raw/mariadb-corporation__mariadb-connector-nodejs/check-runs.ndjson",
+      "sha256": "12726a7896c36c99c64ce4e7e33764ec273ee178ac13634f153e5319bdf4bb81"
+    },
+    {
+      "bytes": 72274,
+      "path": "raw/mariadb-corporation__mariadb-connector-nodejs/jobs.ndjson",
+      "sha256": "56482c858b8562126355e15e26dc148c8bde3439ae3109165eb3990141c7512f"
+    },
+    {
+      "bytes": 14756,
+      "path": "raw/mariadb-corporation__mariadb-connector-nodejs/runs.ndjson",
+      "sha256": "b6d8423a3153e942c27c19cae14e02ccd1df2c1ca2d497d9c424ba0687fc3523"
+    },
+    {
+      "bytes": 229618,
+      "path": "raw/meshery__meshery/artifacts.ndjson",
+      "sha256": "303bd68a7022da3ecb9edf693044071c5f5cf973054d4b5498b14797707b5321"
+    },
+    {
+      "bytes": 769588,
+      "path": "raw/meshery__meshery/check-runs.ndjson",
+      "sha256": "bebe59d830175caa56aa6a897a84d97a785b472183628c2075fcba60eea5b578"
+    },
+    {
+      "bytes": 663369,
+      "path": "raw/meshery__meshery/jobs.ndjson",
+      "sha256": "2f1419e7e0ff9aad1c15086506b55d5865a910442c2705b27e1c6fa8ff92b59b"
+    },
+    {
+      "bytes": 1067464,
+      "path": "raw/meshery__meshery/runs.ndjson",
+      "sha256": "cddc7b080b735c2e0e98c5219332cb84ad90dd5f777ab1b155a7e7595a6ca69d"
+    },
+    {
+      "bytes": 9638,
+      "path": "raw/prettier__prettier/artifacts.ndjson",
+      "sha256": "bc584ca4934df22a1632c581ec033f98cbaca3971aef99ba3317e1f5074b3338"
+    },
+    {
+      "bytes": 1130976,
+      "path": "raw/prettier__prettier/check-runs.ndjson",
+      "sha256": "ae2a5f247f0c83b40f23211527a69b77f8e508ba0b3a6a395ae21df09b529275"
+    },
+    {
+      "bytes": 959040,
+      "path": "raw/prettier__prettier/jobs.ndjson",
+      "sha256": "b1e1f0df31da703217756247748569961c5d865da083b8a7a20e3fc910ed7c4a"
+    },
+    {
+      "bytes": 464789,
+      "path": "raw/prettier__prettier/runs.ndjson",
+      "sha256": "fce7519bb6baab80a4a23cce352cdd2ef2e840f11ac3ac23e5cae989f54f0104"
+    },
+    {
+      "bytes": 199874,
+      "path": "raw/sveltejs__svelte/check-runs.ndjson",
+      "sha256": "2802bb5d44f9648bb6536cafcb2ac1b947d624f5f884415f748b1998db02548b"
+    },
+    {
+      "bytes": 173355,
+      "path": "raw/sveltejs__svelte/jobs.ndjson",
+      "sha256": "b4dfafa44bafeb9ee87bde222232ad17b2e5c2d55f766edd25973083fa9d8f2c"
+    },
+    {
+      "bytes": 100116,
+      "path": "raw/sveltejs__svelte/runs.ndjson",
+      "sha256": "af3eee2d1897aae687cfe629ee44e4a2838e404a5d9cdf8f581191aa57dd6e3b"
+    },
+    {
+      "bytes": 145677,
+      "path": "raw/trpc__trpc/check-runs.ndjson",
+      "sha256": "339d9f727d9222ac916e3e5c311fd8d82a69a5d0e5aedba467b82ac5b291bd94"
+    },
+    {
+      "bytes": 132966,
+      "path": "raw/trpc__trpc/jobs.ndjson",
+      "sha256": "0ecb93f9d549f449d2892bdc54cf6385de2590e232730467f7c968a7e2a65ec2"
+    },
+    {
+      "bytes": 34479,
+      "path": "raw/trpc__trpc/runs.ndjson",
+      "sha256": "fcbb81feda9c8d7bc7591501220481492f5219008784a55915449292d51a40d5"
+    },
+    {
+      "bytes": 4925162,
+      "path": "raw/typescript-eslint__typescript-eslint/check-runs.ndjson",
+      "sha256": "5cc393d99f6c8844d4c31c306d8db51101c6bee0bd13e31b76e968f58a16009c"
+    },
+    {
+      "bytes": 6298867,
+      "path": "raw/typescript-eslint__typescript-eslint/jobs.ndjson",
+      "sha256": "9867a7b59be1e65b28e969764e2876dd497ad275a7db3515fc5308bcf89b6962"
+    },
+    {
+      "bytes": 1000681,
+      "path": "raw/typescript-eslint__typescript-eslint/runs.ndjson",
+      "sha256": "80d681f6aa0953189e207055ce35d0a3a3890824aea344e7f0de8bf36c9c6eb1"
+    },
+    {
+      "bytes": 6021,
+      "path": "raw/unjs__h3/check-runs.ndjson",
+      "sha256": "58a976a55e699d3195809a3171787306e20ea555f98bb21ad26a77b7f00f8b07"
+    },
+    {
+      "bytes": 3612,
+      "path": "raw/unjs__h3/jobs.ndjson",
+      "sha256": "524c708841140ae432ea8368e9f1509b21ae6319a11f40146c09c6cfa830b1c2"
+    },
+    {
+      "bytes": 22403,
+      "path": "raw/unjs__h3/runs.ndjson",
+      "sha256": "f8b7c537817dee742f4ea1dbfbc8734a02f9117196bd918d82b87cbf4b1053e2"
+    },
+    {
+      "bytes": 571241,
+      "path": "raw/visgl__luma.gl/artifacts.ndjson",
+      "sha256": "319e9be7e2957c61c4e7da4475af43ab9d695034ea03eb0152e8cb3bf9078549"
+    },
+    {
+      "bytes": 5209843,
+      "path": "raw/visgl__luma.gl/check-runs.ndjson",
+      "sha256": "25b1b29c08df3744f7accfc3add1afc4f5c059a4389341dd2313dd67d6808f30"
+    },
+    {
+      "bytes": 5923908,
+      "path": "raw/visgl__luma.gl/jobs.ndjson",
+      "sha256": "0de9da2667f55b90bb543d998a8ec55fa14ae599b746c46bf905f4a78d4218c2"
+    },
+    {
+      "bytes": 1822488,
+      "path": "raw/visgl__luma.gl/runs.ndjson",
+      "sha256": "79c108a92248c088b3fb9018933aba0685431eb0f10c7713ea111dce57081b0d"
+    },
+    {
+      "bytes": 545035,
+      "path": "raw/vitejs__vite/check-runs.ndjson",
+      "sha256": "f1903f52a0e821dc728c85206cb5d3988663b14f91b9603f604274686f7b85ce"
+    },
+    {
+      "bytes": 514565,
+      "path": "raw/vitejs__vite/jobs.ndjson",
+      "sha256": "a1d1b8172290034bba116b7f336db2216d94c7b62abd95db7ac9c8204a558373"
+    },
+    {
+      "bytes": 222306,
+      "path": "raw/vitejs__vite/runs.ndjson",
+      "sha256": "563f5c5ce8d91e86874f94f22b8ffe4951bc2906dae1a021f6205ec16f5dda7f"
+    },
+    {
+      "bytes": 48483,
+      "path": "raw/vuejs__core/check-runs.ndjson",
+      "sha256": "e55ceadebba5bb50e61841839580d62f57d95bab506c63b47f78b8abf56f3e28"
+    },
+    {
+      "bytes": 44630,
+      "path": "raw/vuejs__core/jobs.ndjson",
+      "sha256": "849ed5f8d368ce9b175b19debbba321d9d62c18f88133ce333be02d9bf4dfdb7"
+    },
+    {
+      "bytes": 156563,
+      "path": "raw/vuejs__core/runs.ndjson",
+      "sha256": "05863f5778a3b1ae854ccc0e21822e0c06344a10b8d85c9a5b26671d15a2d080"
+    }
+  ],
+  "items": [
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 1,
+        "checkRuns": 6,
+        "inProgress": 0,
+        "jobs": 6,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 1
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "vuejs/core",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "colinhacks/zod",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "honojs/hono",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "vitejs/vite",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "TanStack/query",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "trpc/trpc",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "toss/es-toolkit",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "sveltejs/svelte",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "unjs/h3",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "typescript-eslint/typescript-eslint",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 4,
+        "checkRuns": 20,
+        "inProgress": 0,
+        "jobs": 20,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 4
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "facebook/lexical",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "excalidraw/excalidraw",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "vueuse/vueuse",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "prettier/prettier",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "babel/babel",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "baserow/baserow",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "Azure/azure-iot-sdk-python",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "electron/forge",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "visgl/luma.gl",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "Significant-Gravitas/AutoGPT",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "mariadb-corporation/mariadb-connector-nodejs",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "meshery/meshery",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "mozilla-conduit/review",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "NatLabRockies/buildstockbatch",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-20",
+      "kind": "backfill",
+      "repo": "jborean93/ansibug",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 1,
+        "checkRuns": 5,
+        "inProgress": 0,
+        "jobs": 5,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 1
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "vuejs/core",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "colinhacks/zod",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "honojs/hono",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "vitejs/vite",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "TanStack/query",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "trpc/trpc",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "toss/es-toolkit",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "sveltejs/svelte",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "unjs/h3",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "typescript-eslint/typescript-eslint",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "facebook/lexical",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "excalidraw/excalidraw",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "vueuse/vueuse",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "prettier/prettier",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 12,
+        "attempts": 2,
+        "checkRuns": 58,
+        "inProgress": 0,
+        "jobs": 58,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 2
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "babel/babel",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "baserow/baserow",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "Azure/azure-iot-sdk-python",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "electron/forge",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "visgl/luma.gl",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "Significant-Gravitas/AutoGPT",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "mariadb-corporation/mariadb-connector-nodejs",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "meshery/meshery",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "mozilla-conduit/review",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "NatLabRockies/buildstockbatch",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-21",
+      "kind": "recent",
+      "repo": "jborean93/ansibug",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 11,
+        "checkRuns": 5,
+        "inProgress": 0,
+        "jobs": 5,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 11
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "vuejs/core",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 5,
+        "checkRuns": 25,
+        "inProgress": 0,
+        "jobs": 25,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 5
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "colinhacks/zod",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 30,
+        "attempts": 8,
+        "checkRuns": 98,
+        "inProgress": 0,
+        "jobs": 112,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 7
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "honojs/hono",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 19,
+        "checkRuns": 179,
+        "inProgress": 0,
+        "jobs": 179,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 19
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "vitejs/vite",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 52,
+        "checkRuns": 111,
+        "inProgress": 0,
+        "jobs": 114,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 48
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "TanStack/query",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 3,
+        "checkRuns": 48,
+        "inProgress": 0,
+        "jobs": 48,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 3
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "trpc/trpc",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "toss/es-toolkit",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 8,
+        "checkRuns": 63,
+        "inProgress": 0,
+        "jobs": 72,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 7
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "sveltejs/svelte",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 2,
+        "checkRuns": 2,
+        "inProgress": 0,
+        "jobs": 2,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 2
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "unjs/h3",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 73,
+        "checkRuns": 1546,
+        "inProgress": 0,
+        "jobs": 2627,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 43
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "typescript-eslint/typescript-eslint",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 1,
+        "attempts": 52,
+        "checkRuns": 165,
+        "inProgress": 0,
+        "jobs": 165,
+        "mirrorSkipped": 0,
+        "mirrored": 1,
+        "mirroredBytes": 1057841,
+        "missingWorkflows": [],
+        "runs": 46
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "facebook/lexical",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "excalidraw/excalidraw",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "vueuse/vueuse",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 14,
+        "attempts": 38,
+        "checkRuns": 336,
+        "inProgress": 0,
+        "jobs": 336,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 34
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "prettier/prettier",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 110,
+        "attempts": 19,
+        "checkRuns": 531,
+        "inProgress": 0,
+        "jobs": 559,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 18
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "babel/babel",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 20,
+        "attempts": 1,
+        "checkRuns": 41,
+        "inProgress": 0,
+        "jobs": 41,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 1
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "baserow/baserow",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "Azure/azure-iot-sdk-python",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "electron/forge",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 818,
+        "attempts": 156,
+        "checkRuns": 1693,
+        "inProgress": 0,
+        "jobs": 1693,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 156
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "visgl/luma.gl",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 825,
+        "attempts": 165,
+        "checkRuns": 1320,
+        "inProgress": 0,
+        "jobs": 1320,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 165
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "Significant-Gravitas/AutoGPT",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 1,
+        "attempts": 1,
+        "checkRuns": 23,
+        "inProgress": 0,
+        "jobs": 23,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 1
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "mariadb-corporation/mariadb-connector-nodejs",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 328,
+        "attempts": 83,
+        "checkRuns": 246,
+        "inProgress": 0,
+        "jobs": 246,
+        "mirrorSkipped": 0,
+        "mirrored": 81,
+        "mirroredBytes": 234191,
+        "missingWorkflows": [],
+        "runs": 82
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "meshery/meshery",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "mozilla-conduit/review",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 2,
+        "checkRuns": 3,
+        "inProgress": 0,
+        "jobs": 3,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 2
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "NatLabRockies/buildstockbatch",
+      "status": "complete"
+    },
+    {
+      "counts": {
+        "artifacts": 0,
+        "attempts": 0,
+        "checkRuns": 0,
+        "inProgress": 0,
+        "jobs": 0,
+        "mirrorSkipped": 0,
+        "mirrored": 0,
+        "mirroredBytes": 0,
+        "missingWorkflows": [],
+        "runs": 0
+      },
+      "day": "2026-11-22",
+      "kind": "recent",
+      "repo": "jborean93/ansibug",
+      "status": "complete"
+    }
+  ],
+  "options": {
+    "horizonDays": 89,
+    "maxMirrorBytes": 1572864000,
+    "recentDays": 2,
+    "repoShare": 1000
+  },
+  "pending": 0,
+  "requests": 2241,
+  "requestsByRepo": {
+    "Azure/azure-iot-sdk-python": 3,
+    "NatLabRockies/buildstockbatch": 9,
+    "Significant-Gravitas/AutoGPT": 501,
+    "TanStack/query": 155,
+    "babel/babel": 65,
+    "baserow/baserow": 6,
+    "colinhacks/zod": 18,
+    "electron/forge": 3,
+    "excalidraw/excalidraw": 3,
+    "facebook/lexical": 167,
+    "honojs/hono": 26,
+    "jborean93/ansibug": 3,
+    "mariadb-corporation/mariadb-connector-nodejs": 6,
+    "meshery/meshery": 334,
+    "mozilla-conduit/review": 3,
+    "prettier/prettier": 116,
+    "sveltejs/svelte": 26,
+    "toss/es-toolkit": 3,
+    "trpc/trpc": 12,
+    "typescript-eslint/typescript-eslint": 192,
+    "unjs/h3": 9,
+    "visgl/luma.gl": 473,
+    "vitejs/vite": 60,
+    "vuejs/core": 45,
+    "vueuse/vueuse": 3
+  },
+  "stoppedEarly": null,
+  "version": 1
+}
